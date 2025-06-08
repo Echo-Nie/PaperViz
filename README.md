@@ -7,7 +7,9 @@ Reproducing figures and visualizations from top academic papers with open-source
 
 ### IJCAI 2023 SemiGNN-PPI
 
-<img src="./Figure 1 - LineChart/SemiGNN-PPI.png" alt="SemiGNN-PPI" style="zoom:50%;" />
+<p align="center">
+  <img src="./Figure 1 - LineChart/SemiGNN-PPI.png" alt="SemiGNN-PPI" width="50%" />
+</p>
 
 This type of chart is suitable for visualizing results from ablation studies or comparative experiments, especially in the following scenarios:
 
